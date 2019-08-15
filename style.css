@@ -4,6 +4,10 @@
   margin-right: 200px;
 }
 
+#content-contact {
+  text-align: right; 
+}
+
 body {
   font-family: Arial, “Helvetica Neue”, Helvetica, sans-serif; 
   background-color: #FFD4F2; 
