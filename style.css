@@ -18,17 +18,15 @@ body {
   font-family: Arial, “Helvetica Neue”, Helvetica, sans-serif; 
 }
 
-.block-date h4 {
+<style>
+.title-date h4 {
   display: inline;
 }
 
 .date {
   text-align: right;
 }
-
-.title-date h4 {
-  display: inline;  
-}
+</style>
 
 h1 {
   font-size: 32px;
@@ -38,6 +36,7 @@ h1 {
 h2 {
   font-size: 20px;
   margin-bottom: -10px;
+  font-weight: normal;
 }
 
 h3 {
