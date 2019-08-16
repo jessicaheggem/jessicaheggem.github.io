@@ -2,6 +2,12 @@
   margin-top: 20px;
   margin-left: 250px;
   margin-right: 250px;
+  
+  padding: 10px 150px 10px 150px;
+  
+  border-radius: 15px;
+  
+  background-color: #CDECFF;
 }
 
 #content-contact {
@@ -10,7 +16,6 @@
 
 body {
   font-family: Arial, “Helvetica Neue”, Helvetica, sans-serif; 
-  background-color: #CDECFF; 
 }
 
 .block-date2 {
