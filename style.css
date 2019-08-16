@@ -18,17 +18,13 @@ body {
   font-family: Arial, “Helvetica Neue”, Helvetica, sans-serif; 
 }
 
-.block-date2 {
-  display: flex;
+.date {
+  float: right;
 }
 
 <style>
 .title-date {
   clear: both;  
-}
-
-.leftheader {
-  float: left; 
 }
 
 .rightheader {
