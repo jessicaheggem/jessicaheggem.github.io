@@ -23,18 +23,12 @@ body {
 }
 
 .date {
-  float: right;
+  text-align: right;
 }
 
-<style>
-.title-date {
-  clear: both;  
+.title-date h4 {
+  display: inline;  
 }
-
-.rightheader {
-  float: right; 
-}
-</style>
 
 h1 {
   font-size: 32px;
