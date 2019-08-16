@@ -23,6 +23,11 @@ body {
   justify-content: space-between; 
 }
 
+<style>
+.title-date {
+  clear: both;  
+}
+
 .leftheader {
   float: left; 
 }
@@ -30,6 +35,7 @@ body {
 .rightheader {
   float: right; 
 }
+</style>
 
 h1 {
   font-size: 32px;
