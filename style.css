@@ -14,7 +14,7 @@ body {
 }
 
 .block-date {
-  display: inline; 
+  display: flex; 
 }
 
 h1 {
