@@ -18,6 +18,18 @@ body {
   justify-content: space-between; 
 }
 
+.title-date {
+  clear: both;
+}
+
+.leftheader {
+  float: left; 
+}
+
+.rightheader {
+  float: right; 
+}
+
 h1 {
   font-size: 32px;
   margin-bottom: -14px;
