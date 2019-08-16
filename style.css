@@ -19,7 +19,7 @@ body {
 }
 
 .title-date {
-  display: inline;
+  display: flex;
 }
 
 h1 {
