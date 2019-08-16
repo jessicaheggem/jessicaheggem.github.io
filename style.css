@@ -18,6 +18,10 @@ body {
   font-family: Arial, “Helvetica Neue”, Helvetica, sans-serif; 
 }
 
+.block-date {
+  display: inline-block;
+}
+
 .date {
   float: right;
 }
