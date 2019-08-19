@@ -14,6 +14,11 @@
   text-align: right; 
 }
 
+#headings {
+  font-family: “Arial Narrow”, Arial, sans-serif;
+  font-size: 32px;
+}
+
 body {
   font-family: Arial, “Helvetica Neue”, Helvetica, sans-serif; 
   font-size: 16px;
