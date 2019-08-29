@@ -1,7 +1,8 @@
 #container {
-  margin-top: 20px;
+  margin-top: 25px;
   margin-left: 195px;
   margin-right: 195px;
+  margin-bottom: 25px;
   
   padding: 10px 150px 10px 150px;
   
@@ -16,7 +17,7 @@
 
 .heading {
   font-family: Futura, “Trebuchet MS”, Arial, sans-serif;
-  font-size: 32px;
+  font-size: 30px;
 }
 
 body {
@@ -30,7 +31,7 @@ body {
 }
 
 h1 {
-  font-size: 32px;
+  font-size: 28px;
   margin-bottom: -5px;
 }
 
@@ -42,7 +43,7 @@ h2 {
 
 h3 {
   font-size: 25px;
-  margin-bottom: 1px;
+  margin-bottom: -10px;
 }
 
 h4 {
